@@ -84,7 +84,7 @@
     "invariant": "^2.2.4",
     "is-wsl": "2.2.0",
     "js-cookie": "2.2.1",
-    "jsonwebtoken": "8.5.1",
+    "jsonwebtoken": "9.0.0",
     "koa-compose": "4.1.0",
     "koa-passport": "4.1.4",
     "koa-static": "5.0.0",
